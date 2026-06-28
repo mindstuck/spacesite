@@ -1,0 +1,18 @@
+:root {
+    --font-family: "DM Sans", sans-serif;
+}
+
+html{
+    /* background-color: #663399; */
+    background-color: #341539;
+    font-family: var(--font-family);
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.wrapper {
+    max-width: 75vw;
+    margin: 0 auto;
+}
